@@ -39,7 +39,7 @@ Neste trabalho também foram utilizadas algumas técnicas de melhor aprendizado 
 
 <img src="https://user-images.githubusercontent.com/44613658/180645703-f4a452f0-0e1f-4240-895a-338e4cc68f26.png" width="600" height="300" >
 
-- 2º método Melhor Generalização - Dropout
+- 2º método Melhor Generalização - Dropout:
 
 <img src="https://user-images.githubusercontent.com/44613658/180646122-0449074a-8e53-48ee-8f2e-2b9a9c4752a2.png" width="600" height="300" >
 

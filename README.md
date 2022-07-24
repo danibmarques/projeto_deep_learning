@@ -14,6 +14,9 @@ Destinado para provar os fundamentos do conceito de _Deep Learning_.
 # Fatores
 A partir de dados de entrada com algumas características da flor íris como `sepal length in cm, sepal width in cm, petal length in cm, petal width in cm` poder determinar de forma automatizada qual a classe que a respectiva flor pertence (`Iris-setosa, Iris-versicolor, Iris-virginica`).
 
+<img src="https://user-images.githubusercontent.com/44613658/180649139-04b63f28-facf-4feb-a20f-8a4e9f5a61c6.jpg" width="300" height="200" >
+
+
 # Dados de avaliação
 O dataset utilizado neste projeto está disponível em UCI Machine Learning Repository, ([website](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/)).
 

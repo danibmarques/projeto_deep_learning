@@ -1,6 +1,6 @@
 # Model Card - Projeto Deep Learning
 Este projeto é uma proposta de modelo para o treinamento de um algoritmo _Deep Learning_.
-Projeto desenvolvido na disciplina Aprendizagem de Máquinas | PPGEEC | UFRN
+Projeto desenvolvido na disciplina Aprendizagem de Máquinas | PPGEEC | UFRN.
 
 # Detalhes do modelo
 - Estudo de caso de um problema de classificação multiclasse. 

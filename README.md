@@ -1,5 +1,6 @@
 # Model Card - Projeto Deep Learning
 Este projeto é uma proposta de modelo para o treinamento de um algoritmo _Deep Learning_.
+Projeto desenvolvido na disciplina Aprendizagem de Máquinas | PPGEEC | UFRN
 
 # Detalhes do modelo
 - Estudo de caso de um problema de classificação multiclasse. 
@@ -44,7 +45,7 @@ Neste trabalho também foram utilizadas algumas técnicas de melhor aprendizado 
 
 - 2º método Melhor Generalização - Dropout:
 
-<img src="https://user-images.githubusercontent.com/44613658/180646122-0449074a-8e53-48ee-8f2e-2b9a9c4752a2.png" width="600" height="300" >
+<img src="https://user-images.githubusercontent.com/44613658/180646122-0449074a-8e53-48ee-8f2e-2b9a9c4752a2.png" width="580" height="280" >
 
 
 - Visão geral do resultado final carregado na plataforma **Weights and Biases**:
